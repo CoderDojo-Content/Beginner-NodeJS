@@ -1,5 +1,7 @@
-1. You may not need to include a setup card, but here it is, in case it's useful to you!
-2. Normally, I would include instructions for the Ninja here, about anything they may need to sign-up for, configure, etc.
+1. Before doing this card you should have completed the Javascript Sushi Cards. If not, Go find them [here](https://www.gitbook.com/book/coderdojo/beginner-javascript-sushi/details), [here](https://www.gitbook.com/book/coderdojo/intermediate-javascript-sushi/details) and [here](https://www.gitbook.com/book/coderdojo/advanced-javascript-sushi/details).
 
+2. To develop with NodeJS, You are going to need to install the enviroment to your computer. Download and run the installer for your operating system [here](https://nodejs.org/en/download/).
+
+3. 
 
 

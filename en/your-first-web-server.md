@@ -15,7 +15,7 @@
    });
    ```
 
-3. And finally we are going to tell the web-server to listen on port 3000.
+3. Now we are going to tell the web-server to listen on port 3000.
 
    ```js
    app.listen(3000, function () {

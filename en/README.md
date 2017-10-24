@@ -16,5 +16,5 @@ node main.js
 
 If you see no error messages you are ready to start programming in NodeJS!
 
-_\(On some machines you may need to type nodejs instead of node\)_
+_\(On some machines you may need to type nodejs instead of node. Also: To shut down a program from the terminal, press ctrl-c on a mac or ctrl-x on a windows machine. \)_
 

@@ -13,7 +13,7 @@
         app.use(express.static('public'))
    ```
 
-3. Now create a folder\( In the same place as your program \) and create a [simple html website](https://www.gitbook.com/book/coderdojo/beginner-html-css/details) called _index.html_.
+3. Now create a folder\( In the same place as your program \) called "public" and create a [simple html website](https://www.gitbook.com/book/coderdojo/beginner-html-css/details) called _index.html_.
 
 4. Restart your program and reload your browser, Hopefully you see your brand new website!
 

@@ -1,4 +1,4 @@
-1. We are going to make the most basic web-server possible. First of all, Type in this:
+1. We are going to make the most basic web-server possible. First of all, Type this in to the editor:
 
    ```js
     var express = require('express')
@@ -23,7 +23,7 @@
    });
    ```
 
-4. Finally to run the code, Type this:
+4. Finally to run the code, Type this into the command prompt:
 
    ```
       node main.js

@@ -15,7 +15,7 @@
    1. First, We defined a new variable, Called number.  
    2. Then we said "When we get a _get request_" run this function, although we used a "get" request, There are many different types of request. The most common are POST and GET. Post is usually used for sending large amounts of data, And GET is usually used for retrieving large ammounts of data\( Although you can send a small amount with it. \).  
    3. We printed out that someone pressed a button and we added 1 to the number.  
-   4. Finally, We sent back some JSON. Although sending back json wasn't really necessary in this case, IT is good practice to send back something to confirm that everything went well!
+   4. Finally, We sent back some JSON. Although sending back json wasn't really necessary in this case, It is good practice to send back something to confirm that everything went well!
 
 4. Restart your program and go to `127.0.0.1:3000/addnumber` Hopefully your browser will show `{ iserr: false }` and your program will print out "Someone pressed a button!" to the console. Congratulations! Your first API is complete.
 

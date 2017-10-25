@@ -14,5 +14,7 @@
 
 7. Now that we've done that, Its time to make the number on the page change, So, When the page loads\( At the top of your code in the script tag. \) add in a request to get number, Parse the json you get back \( using JSON.parse\(\) \), And set the text on the page to the value of number!
 
-\*Be careful not to make the api requests to localhost or 127.0.0.1, Because although this may work for yourself, It wont for other people, Instead, Put in your private IP Address.
+\*Be careful about makeing the api requests to localhost or 127.0.0.1, Because although this may work for yourself, It wont for other people, Instead, Put in your private IP Address.
+
+
 

@@ -1,5 +1,5 @@
 1. In the Javascript tutorials you used an api, But now you are going to create one!
-2. To make an api you are going to have to add a new _route_, a route is the stuff after the / at the end of a URL. It tells the web server what you want to access. Add this into your server file\( Just before the listen function \):
+2. To make an api you are going to have to add a new _route_, a route is the stuff after the / at the end of a URL. It tells the web server what you want to access. Add this into your server file\( main.js \), Just before the listen function:
 
    ```js
     var number = 0;
@@ -17,7 +17,7 @@
    3. We printed out that someone pressed a button and we added 1 to the number.  
    4. Finally, We sent back some JSON. Although sending back json wasn't really necessary in this case, IT is good practice to send back something to confirm that everything went well!
 
-4. Restart your program and go to `127.0.0.1:3000/addnumber` Hopefully your browser will show `{ iserr: false }` and your program will print out "Someone pressed a button!". Congratulations! Your first API is complete.
+4. Restart your program and go to `127.0.0.1:3000/addnumber` Hopefully your browser will show `{ iserr: false }` and your program will print out "Someone pressed a button!" to the console. Congratulations! Your first API is complete.
 
 
 

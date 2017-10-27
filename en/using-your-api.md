@@ -14,8 +14,11 @@
 
 7. Now that we've done that, Its time to make the number on the page change, So, When the page loads\( At the top of your code in the script tag. \) add in a request to get number, Parse the json you get back \( using JSON.parse\(\) \), And set the text on the page to the value of number!
 
-\*Since the API is running on your own computer, You don't need to specify an ip address, Simply make the request to '/getnumber'! .E.G.   
-   ```js
+\*Since the API is running on your own computer, You don't need to specify an ip address, Simply make the request to '/getnumber' .E.G.
+
+```js
    fetch('/getnumber').then(...
-   ```
+```
+
+
 
